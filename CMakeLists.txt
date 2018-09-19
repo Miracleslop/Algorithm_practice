@@ -3,4 +3,4 @@ project(Algorithm_practice)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Algorithm_practice main.cpp)
+add_executable(Algorithm_practice main.cpp Knapsack_problem.h)
